@@ -1,0 +1,42 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-color: #1C1C1C;
+    color: #F5F5F5;
+    padding: 40px;
+  }
+  
+  h1 {
+    color: #6FCF97;
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 30px;
+    text-shadow: 0 0 10px rgba(111, 207, 151, 0.5);
+  }
+  
+  p {
+    line-height: 1.6;
+    margin-bottom: 30px;
+    font-size: 18px;
+    text-align: justify;
+  }
+  
+  .code-block {
+    background-color: #2C2C2C;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: 'Roboto Mono', monospace;
+    white-space: pre-wrap;
+    margin-bottom: 10px;
+    box-shadow: 0 0 20px rgba(111, 207, 151, 0.3);
+  }
+  
+  .unique-feature {
+    background-color: #1C1C1C;
+    padding: 20px;
+    border-radius: 10px;
+    font-style: italic;
+    border: 2px solid #6FCF97;
+    box-shadow: 0 0 20px rgba(111, 207, 151, 0.3);
+  }
+  
